@@ -6,7 +6,7 @@ Just quick port https://github.com/jonhue/tip-the-world-cup/blob/master/app/serv
 
 ###Install:
 
-npm install score_parser
+npm install --save https://github.com/Amitesh/gulp-rev-all/tarball/master
 
 ###Usage:
 
